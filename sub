@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main{
+int a,b,c,d,i,j;
+a=10;
+b=5;
+c=20;
+d=10;
+i=a-b;
+j=c-d;
+printf("The diffrence of a and b id %d",&i);
+printf("The diffrence between c and d is %d",&j);
+return 0;
+}

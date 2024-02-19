@@ -1,0 +1,8 @@
+
+#include<stdio.h>
+int main{
+printf("hello world");
+return 0;
+}
+clac a,b,c
+
